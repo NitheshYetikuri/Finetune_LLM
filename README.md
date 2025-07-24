@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Local LLM Integration & Chatbot for Recipe Suggestions
 
 This project demonstrates how to set up a local Large Language Model (LLM), fine-tune it for recipe suggestions, and integrate it into a user-friendly chatbot interface.
@@ -152,6 +151,4 @@ Instructions: 'Place 1 tablespoon salt and 1 teaspoon pepper in a shallow dish. 
 ## Testing and Verification
 
 To verify the project locally, follow the "How to Run the Project" steps and use the "Sample Input and Expected Output" to confirm the chatbot's functionality. Ensure both the FastAPI server and Streamlit UI are running without errors. You can also test the FastAPI endpoint directly using tools like Postman or `curl` to send POST requests to `http://127.0.0.1:8000/generate/` with a JSON body `{"query": "provide  Instructions for recipe.Crispy Salt and Pepper Potatoes"}`.
-=======
-# Finetune_LLM
->>>>>>> 51435593e50ec2733b70b7ece41b066951b45b3a
+
