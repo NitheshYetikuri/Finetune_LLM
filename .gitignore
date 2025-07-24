@@ -1,0 +1,10 @@
+.env
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.vscode/
+__pycache__/
+unsloth.Q4_K_M.gguf
